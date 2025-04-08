@@ -181,7 +181,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-[Report](https://github.com/gulnaaz-source/Business_Insights-360/blob/main/Business-360.pdf)
+[Report](https://github.com/Deepika-1605/Business_Insights-360/blob/main/Business-360.pdf)
 
 ## Info Page
 
